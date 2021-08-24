@@ -1,0 +1,27 @@
+body {
+    background-image: none;
+}
+
+h1 {
+    font-size: 23px;
+}
+
+a {
+    font-size: 14px;
+}
+
+.form {
+    max-width: 325px;
+}
+
+.summary {
+    padding: 25px;
+}
+
+.annual-plan {
+    padding: 14px;
+}
+
+.annual-plan h3 {
+    font-size: 15px;
+}
